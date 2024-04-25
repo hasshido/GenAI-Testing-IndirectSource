@@ -1,6 +1,7 @@
 # GenAI-Testing-IndirectSource
 
-Sweeet caroline, oh oh oooh...
+
+Yo ho ho, and a bottle of rum
 
 
 ------------- END OF README FILE ------------
